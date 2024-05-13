@@ -22,5 +22,5 @@ public class Main {
         System.out.println("Toplam Tutar : "+toplam+"TL");
 
 
-    }C:\Users\Meeyet\Desktop\java101_patika.dev
+    }
 }

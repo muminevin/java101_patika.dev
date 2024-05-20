@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KDV_Tutari_Hesaplayan_Program/KDV_Tutari_Hesaplayan_Program.iml" filepath="$PROJECT_DIR$/KDV_Tutari_Hesaplayan_Program/KDV_Tutari_Hesaplayan_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manav Kasa Programi/Manav Kasa Programi.iml" filepath="$PROJECT_DIR$/Manav Kasa Programi/Manav Kasa Programi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratik - Dairenin Alanini ve Cevresini Bulan Program/Pratik - Dairenin Alanini ve Cevresini Bulan Program.iml" filepath="$PROJECT_DIR$/Pratik - Dairenin Alanini ve Cevresini Bulan Program/Pratik - Dairenin Alanini ve Cevresini Bulan Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratik - Taksimetre Hesaplayan Program/Pratik - Taksimetre Hesaplayan Program.iml" filepath="$PROJECT_DIR$/Pratik - Taksimetre Hesaplayan Program/Pratik - Taksimetre Hesaplayan Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratik-Dik _Ucgende_Hipotenus_Bulan_Program/Pratik-Dik _Ucgende_Hipotenus_Bulan_Program.iml" filepath="$PROJECT_DIR$/Pratik-Dik _Ucgende_Hipotenus_Bulan_Program/Pratik-Dik _Ucgende_Hipotenus_Bulan_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratik_Not_Ortalamasi_Hesaplayan_Program/Pratik_Not_Ortalamasi_Hesaplayan_Program.iml" filepath="$PROJECT_DIR$/Pratik_Not_Ortalamasi_Hesaplayan_Program/Pratik_Not_Ortalamasi_Hesaplayan_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vucut Kitle Indeksi Hesaplama/Vucut Kitle Indeksi Hesaplama.iml" filepath="$PROJECT_DIR$/Vucut Kitle Indeksi Hesaplama/Vucut Kitle Indeksi Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java101_patika.dev.iml" filepath="$PROJECT_DIR$/.idea/java101_patika.dev.iml" />
+    </modules>
+  </component>
+</project>
